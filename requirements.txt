@@ -8,3 +8,4 @@ langchain-community
 streamlit
 gTTS==2.2.4 
 python-dotenv
+langchain_google_genai
