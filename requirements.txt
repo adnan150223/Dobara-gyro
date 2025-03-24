@@ -1,5 +1,6 @@
 sentence-transformers==2.2.2
 torch==2.0.1
+numpy
 transformers==4.30.0
 huggingface-hub==0.16.4
 cassio
